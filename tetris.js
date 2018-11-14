@@ -32,7 +32,6 @@ tablou.forEach((linie, y) => {
 });
 }
 
-function
 
 function creeaza()
 {
